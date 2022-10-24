@@ -141,6 +141,38 @@ color: #8f8f8f;
 }
 
 
+/* Call to Action */ 
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-title {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    ;
+}
+
+
+/* Footer */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 10px 20px;
+}
+
+
+
 /* Media Queries */
 
 @media (max-width: 1028px) {
