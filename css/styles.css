@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Title Image */
 
 .title-image {
-    width: 60%;
+    width: 286px;
     transform: rotate(25deg);
     position: absolute;
     right: 30%;
@@ -81,7 +81,6 @@ h1, h2, h3, h4, h5, h6 {
 #features {
     background-color: #fff;
     position: relative;
-    z-index: 1;
 }
 
 .feature-box{
@@ -161,7 +160,6 @@ color: #8f8f8f;
 }
 
 
-
 /* Media Queries */
 
 @media (max-width: 1028px) {
@@ -170,7 +168,7 @@ color: #8f8f8f;
         transform: rotate(0);
     }
 
-    #title {
+    .title {
         text-align: center;
     }
 }
